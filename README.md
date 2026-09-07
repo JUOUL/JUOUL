@@ -20,10 +20,8 @@ My research interests lie in **Multimodal Learning, Vision-Language Models, Agen
 - **Representation Learning**
 
 ### 📄 Publication
-- **The Subject Is the Signal: Measuring Attribution Binding in Proposition Indexes**  
-  *Under Review, ARR 2026 (EMNLP)*
+- **Benchmarking Aggregation Queries over Unstructured Text**  
+  *EMNLP Main 2026*
 
 ### 📫 Contact
-- **Email:** your-email@imperial.ac.uk
-- **LinkedIn:** your-linkedin-url
-- **Google Scholar:** your-scholar-url
+- **Email:** qx225@ic.ac.uk

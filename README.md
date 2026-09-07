@@ -21,7 +21,10 @@ My research interests lie in **Multimodal Learning, Vision-Language Models, Agen
 
 ### 📄 Publication
 - **Benchmarking Aggregation Queries over Unstructured Text**  
-  *EMNLP Main 2026*
+  *EMNLP 2026 Main Conference*
+
+### 🏆 Honors & Awards
+- **National First Prize**, 19th "Challenge Cup" Competition, 2024
 
 ### 📫 Contact
 - **Email:** qx225@ic.ac.uk

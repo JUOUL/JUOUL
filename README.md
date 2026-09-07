@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋 I'm Qinyuan Xu
 
-<!--
-**JUOUL/JUOUL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently pursuing an **MSc in Transport with Data Science at Imperial College London** and visiting **HKUST (Guangzhou)**.  
+My research interests lie in **Multimodal Learning, Vision-Language Models, Agentic AI, and Urban Computing**.
 
-Here are some ideas to get you started:
+### 🎓 Education
+- **Imperial College London** — MSc Transport with Data Science, 2025–2026
+- **Southeast University** — BSc Computer Science, 2021–2025
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Experience
+- **HKUST (Guangzhou)** — Visiting Student, 2026–Present
+- **TikTok Shop** — Data Analyst Intern, 2026
+- **World Bank × Imperial College London** — AI Engineer, 2026
+- **Huawei** — Software Engineer Intern, 2024
+
+### 🔬 Research Interests
+- **Multimodal Learning & Vision-Language Models**
+- **Agentic AI & Latent-Space Reasoning**
+- **Urban Computing & Spatial Intelligence**
+- **Representation Learning**
+
+### 📄 Publication
+- **The Subject Is the Signal: Measuring Attribution Binding in Proposition Indexes**  
+  *Under Review, ARR 2026 (EMNLP)*
+
+### 📫 Contact
+- **Email:** your-email@imperial.ac.uk
+- **LinkedIn:** your-linkedin-url
+- **Google Scholar:** your-scholar-url
